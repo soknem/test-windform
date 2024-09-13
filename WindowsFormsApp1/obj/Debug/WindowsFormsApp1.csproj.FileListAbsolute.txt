@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
@@ -8,3 +9,15 @@ C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\obj\Debug\Wi
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\POV SOKNEM\source\repos\dev\test-windform\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\POV SOKNEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+>>>>>>> b3c408db8dd2d81a5c0a4beb19e20110a4454eee
